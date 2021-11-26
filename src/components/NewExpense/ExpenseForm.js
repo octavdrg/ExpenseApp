@@ -7,6 +7,8 @@ const ExpenseForm = () => {
   const [enteredAmount, setEnteredAmount] = useState("");
   const [enteredDate, setEnteredDate] = useState("");
 
+
+  // git commit test
   // varianta 2
   //   const [userInput, setUserInput] = useState({
   //     enteredTitle: "",
